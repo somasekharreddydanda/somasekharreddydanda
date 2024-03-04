@@ -1,5 +1,6 @@
 Hi there, Somasekhar Reddy Danda
 About :
+
 🔭 I have completed my Bachelors in Computer Science Enginnering from IIIT Ongole Andhra Pradesh.
 
 🔭 I am really passionate about Software Developer,Web Developer, Solving Bussiness Problems using Strategies.
