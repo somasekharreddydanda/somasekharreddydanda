@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there, Somasekhar Reddy Danda
+About :
+🔭 I have completed my Bachelors in Computer Science Enginnering from IIIT Ongole Andhra Pradesh.
 
-<!--
-**somasekharreddydanda/somasekharreddydanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am really passionate about Software Developer,Web Developer, Solving Bussiness Problems using Strategies.
 
-Here are some ideas to get you started:
+🔭 I have completed DSA for FAANG preparation course at iNeuron Organisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 My Personal motive is to give my full potential to build Software solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+
+👯 Worked as Data Analysts as an Intern having 6 months of experience with Bepec solutions private limited.
+
+🏆 Qualified GATE 2023 with 300 GATE score in Computer Science Engineering
+
+Skills:Java | Python | C | HTML | CSS | JavaScript | Data Analytics | Data Structure | Algorithms | Machine Learning | Matrix Theory | Probability and Random Variables | Applied Statistics 
+
+📫 Reach me at: somasekharreddy63@gmail.com
